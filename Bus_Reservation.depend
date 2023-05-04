@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682873756 source:c:\users\moham\onedrive\bureau\bus_reservation\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<fstream>
+	<windows.h>
+
